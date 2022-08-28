@@ -6,7 +6,7 @@ class ContactForm extends React.Component {
     this.state = {
       isSubmitted: false,
       /* stateにemailを追加 */
-      email'',
+      email:'',
     };
   }
 
